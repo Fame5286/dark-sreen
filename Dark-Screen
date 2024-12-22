@@ -13,7 +13,7 @@ Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BorderSizePixel = 0
 Frame.Position = UDim2.new(-0.694346309, 0, -0.293398231, 0)
 Frame.Size = UDim2.new(2.18968058, 0, 2.13707471, 0)
-Frame.ZIndex = -1
+Frame.ZIndex = 0
 
 UIAspectRatioConstraint.Parent = Frame
 UIAspectRatioConstraint.AspectRatio = 2.127
